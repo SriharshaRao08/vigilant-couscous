@@ -31,7 +31,7 @@ p {
 
 section {
   border: 1px solid black;
-  background-color:#C24641;
+  background-color:#C22441;
   width: 100%;
   height: auto;
   font-family: Helvetica;
@@ -52,7 +52,7 @@ section {
   margin-top: 0;
   padding: 5px;
   background-color: black;
-  color: #FFFF00;
+  color: #FFFFF0;
 }
 
 #biryani {
@@ -67,7 +67,7 @@ section {
   margin-top: 0;
   padding: 5px;
   background-color: black;
-  color: #FFFF00;
+  color: #FFFFF0;
 }
 
 #idli {
@@ -81,7 +81,7 @@ section {
   margin-bottom: 0;
   margin-top: 0;
   background-color: black;
-  color: #FFFF00;
+  color: #FFFFF0;
   padding: 5px;
 }
 
